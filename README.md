@@ -1,4 +1,4 @@
 # Variational-Autoencoder
-Introductions and implimentartions for some common Variational Autoencoders
+Introductions and implimentartions for some common Variational Autoencoders(VAE)
 ## VAE
-VAE is
+Here we first introduce the classical VAE. $$a+b$$
