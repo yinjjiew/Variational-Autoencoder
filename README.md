@@ -1,2 +1,2 @@
-# Variational-Autoencoder
+# Variational Autoencoder
 
